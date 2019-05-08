@@ -14,3 +14,8 @@ integer i = 0;
 
 ### 建设项目审批优化
 - 规划方案审查周期长如何解决
+
+![](.test01_images/798ecb10.png)
+
+
+![](.test01_images/59da50b1.png)
